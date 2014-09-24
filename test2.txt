@@ -1,5 +1,8 @@
 asdfasdf
+<<<<<<< HEAD
 
 change 1
 
 change 2
+=======
+>>>>>>> parent of 42a20c1... chg1
